@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AraNull
-- 👀 I’m interested in lots of things
+- 👀 I’m interested in Game dev, 3D modelling, AI/ML.
 - 🌱 I’m currently learning too many things at once
 
 
